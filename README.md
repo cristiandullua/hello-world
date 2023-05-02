@@ -10,7 +10,7 @@ The purpose of this software is simple: it is a "Hello World" program that print
 
 To showcase my project, I have created a one minute demonstration video on YouTube. In this video, I provide a walkthrough of the code and show the program running. You can check out the video here:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://clipchamp.com/watch/tfcHs9UilVe)
 
 # Development Environment
 
